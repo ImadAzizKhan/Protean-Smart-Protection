@@ -10,11 +10,11 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "Mooazam"
-#define WIFI_PASSWORD "mooazam123"
+#define WIFI_SSID "Nokia 3.4"
+#define WIFI_PASSWORD "********"
 
-#define API_KEY "AIzaSyBoexAmZSTYXPaikHub9Pggocd-xHg5Dhk"
-#define DATABASE_URL "fourth-ir-protection-default-rtdb.firebaseio.com"
+#define API_KEY "AIzaSyB8K85uQrC4ILNqiurvu-OBqgNWYOxI2O8"
+#define DATABASE_URL "protean-smart-protection-default-rtdb.firebaseio.com"
 
 FirebaseData fbdo;
 
